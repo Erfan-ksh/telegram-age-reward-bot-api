@@ -1,0 +1,10 @@
+tmp/
+logs/
+images/
+images
+logs
+.air.toml
+.env
+notcoin
+go.sum
+blub-api
